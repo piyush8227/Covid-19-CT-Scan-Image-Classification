@@ -1,6 +1,6 @@
 # **Covid-19 CT Scan Image Classification**
 
-![image](https://github.com/piyush8227/FullStack/assets/78916771/979369f8-93ec-474c-af96-c9945fecd898)
+![image](https://github.com/piyush8227/Covid-19-CT-Scan-Image-Classification/assets/78916771/979369f8-93ec-474c-af96-c9945fecd898)
 
 ## **1. Project Description:-**
 * In this project, we aim to develop an AI solution to classify CT scan images as COVID-19 positive(COVID) or negative(Non-COVID). 
